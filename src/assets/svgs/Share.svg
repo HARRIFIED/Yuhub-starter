@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_38" data-name="Group 38" transform="translate(-498 -385)">
+    <rect id="Icon_share_ouline_background" data-name="Icon_share_ouline background" width="40" height="40" transform="translate(498 385)" fill="none"/>
+    <g id="Icon_share_ouline" transform="translate(504.667 390)">
+      <path id="Shape" d="M23.334,30a5,5,0,0,1-4.917-4.083L8.341,18.72a5,5,0,1,1,.086-7.36l9.951-5.687A5,5,0,1,1,19.905,8.64l-9.95,5.686A5.289,5.289,0,0,1,10,15a5.167,5.167,0,0,1-.059.766l9.171,6.552A5,5,0,1,1,23.334,30Zm0-6.666a1.672,1.672,0,0,0-1.668,1.653.083.083,0,0,1,0,.027,1.667,1.667,0,1,0,1.668-1.68ZM5,13.333A1.667,1.667,0,1,0,6.666,15,1.668,1.668,0,0,0,5,13.333Zm18.334-10A1.666,1.666,0,1,0,25,5,1.669,1.669,0,0,0,23.334,3.333Z" fill="#303030"/>
+    </g>
+  </g>
+</svg>

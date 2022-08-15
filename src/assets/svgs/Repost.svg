@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_19" data-name="Group 19" transform="translate(-360 -481)">
+    <g id="Group_15" data-name="Group 15" transform="translate(360 481)">
+      <rect id="Icon_reload_outline_background" data-name="Icon_reload_outline background" width="40" height="40" fill="none"/>
+      <g id="Icon_reload_outline" transform="translate(2.647 6.176)">
+        <path id="Path" d="M0,18.075A11,11,0,0,0,7.5,20.61,13.4,13.4,0,0,0,20.741,8.782h1.99a1.691,1.691,0,0,0,1.387-2.627L20.564.752a1.655,1.655,0,0,0-2.775,0l-3.554,5.4a1.691,1.691,0,0,0,1.387,2.627h1.749A10.048,10.048,0,0,1,7.5,17.23a9.858,9.858,0,0,1-5-1.357Z" transform="translate(9.393 6.426)" fill="#303030"/>
+        <path id="Path-2" data-name="Path" d="M21.9,4.737a9.858,9.858,0,0,0-5-1.357A10.048,10.048,0,0,0,7.03,11.828H8.779a1.691,1.691,0,0,1,1.387,2.627l-3.554,5.4a1.655,1.655,0,0,1-2.775,0l-3.554-5.4A1.691,1.691,0,0,1,1.67,11.828H3.66A13.4,13.4,0,0,1,16.9,0a11.005,11.005,0,0,1,7.5,2.535Z" transform="translate(0)" fill="#303030"/>
+      </g>
+    </g>
+  </g>
+</svg>

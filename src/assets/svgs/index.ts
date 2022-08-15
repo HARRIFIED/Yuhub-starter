@@ -1,0 +1,1 @@
+export { default as YuhubLogo } from './Yuhub_logo.svg'
